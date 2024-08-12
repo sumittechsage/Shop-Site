@@ -2,7 +2,7 @@
 
 <h3>Overview</h3>
 <p>
-This project is an online shop site built using Django and GraphQL APIS. It offers functionalities for user authentication, item and category management, shopping cart operations, and order processing. The admin has control over the menu items, while users can interact with the cart and place orders.
+This project is an online shop site built using Django and GraphQL APIs. It offers functionalities for user authentication, item and category management, shopping cart operations, and order processing. The admin has control over the menu items, while users can interact with the cart and place orders.
 </p>
 <h4>Note:</h4>
 <p>
@@ -77,7 +77,7 @@ This project provides only the backend functionalities. A separate frontend appl
     </li>
     <li>
         <h5>
-            <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" width="24" height="24"/> GraphQL
+            <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" width="24" height="24"/> GraphQL APIs
         </h5>
     </li>
     <li>
